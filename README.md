@@ -20,3 +20,4 @@ Please submit modded and vanilla issues at their respective places.
 
 Issues can be [submitted](https://github.com/Soartex/Issues/issues/new) at the [issue tracker](https://github.com/Soartex/Issues/issues).
 
+Please read the [contributing guide](CONTRIBUTING.md) before posting a issue. We will remove all issues that do not follow this format. Thank you!
