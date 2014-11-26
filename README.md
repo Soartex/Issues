@@ -7,7 +7,7 @@ This is a public issue-tracking repository for bugs and confirmed features for t
 
 If you find a potential exploit or vulnerability, please exercise reasonable disclosure:
 
-1. Privately [contact our staff](mailto:contactsoartexfanver@gmail.com?subject=Important%20security%20vulnerability) about the issue.
+1. Privately [contact our staff](mailto:support@soartex.net?subject=Important%20security%20vulnerability) about the issue.
 2. **Do not** publicly disclose the issue immediately. Please give our staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly.
 
 Please submit modded and vanilla issues at their respective places.
